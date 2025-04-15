@@ -1,0 +1,216 @@
+MAXSIZE : 10
+LAPSE : LINE 1
+result = 186
+LAPSE : LINE 2
+result = 994
+LAPSE : LINE 3
+result = 268
+LAPSE : LINE 4
+result = 830
+LAPSE : LINE 5
+result = 430
+LAPSE : LINE 6
+result = 185
+LAPSE : LINE 7
+result = 863
+LAPSE : LINE 8
+result = 397
+LAPSE : LINE 9
+result = 745
+LAPSE : LINE 10
+result = 934
+LAPSE : LINE 11
+result = 432
+LAPSE : LINE 12
+result = 677
+LAPSE : LINE 13
+result = 464
+LAPSE : LINE 14
+result = 599
+LAPSE : LINE 15
+result = 422
+LAPSE : LINE 16
+result = 123
+LAPSE : LINE 17
+result = 278
+LAPSE : LINE 18
+result = 495
+LAPSE : LINE 19
+result = 993
+LAPSE : LINE 20
+result = 985
+LAPSE : LINE 21
+result = 755
+LAPSE : LINE 22
+result = 399
+LAPSE : LINE 23
+result = 825
+LAPSE : LINE 24
+result = 895
+LAPSE : LINE 25
+result = 565
+LAPSE : LINE 26
+result = 72
+LAPSE : LINE 27
+result = 73
+LAPSE : LINE 28
+result = 398
+LAPSE : LINE 29
+result = 265
+LAPSE : LINE 30
+result = 870
+LAPSE : LINE 31
+result = 300
+LAPSE : LINE 32
+result = 733
+LAPSE : LINE 33
+result = 965
+LAPSE : LINE 34
+result = 108
+LAPSE : LINE 35
+result = 822
+LAPSE : LINE 36
+result = 711
+LAPSE : LINE 37
+result = 990
+LAPSE : LINE 38
+result = 227
+LAPSE : LINE 39
+result = 872
+LAPSE : LINE 40
+result = 824
+LAPSE : LINE 41
+result = 776
+LAPSE : LINE 42
+result = 140
+LAPSE : LINE 43
+result = 759
+LAPSE : LINE 44
+result = 651
+LAPSE : LINE 45
+result = 965
+LAPSE : LINE 46
+result = 757
+LAPSE : LINE 47
+result = 695
+LAPSE : LINE 48
+result = 731
+LAPSE : LINE 49
+result = 236
+LAPSE : LINE 50
+result = 1022
+LAPSE : LINE 51
+result = 471
+LAPSE : LINE 52
+result = 948
+LAPSE : LINE 53
+result = 889
+LAPSE : LINE 54
+result = 42
+LAPSE : LINE 55
+result = 726
+LAPSE : LINE 56
+result = 873
+LAPSE : LINE 57
+result = 42
+LAPSE : LINE 58
+result = 561
+LAPSE : LINE 59
+result = 717
+LAPSE : LINE 60
+result = 602
+LAPSE : LINE 61
+result = 479
+LAPSE : LINE 62
+result = 61
+LAPSE : LINE 63
+result = 811
+LAPSE : LINE 64
+result = 92
+LAPSE : LINE 65
+result = 893
+LAPSE : LINE 66
+result = 33
+LAPSE : LINE 67
+result = 1005
+LAPSE : LINE 68
+result = 280
+LAPSE : LINE 69
+result = 759
+LAPSE : LINE 70
+result = 1011
+LAPSE : LINE 71
+result = 486
+LAPSE : LINE 72
+result = 230
+LAPSE : LINE 73
+result = 735
+LAPSE : LINE 74
+result = 171
+LAPSE : LINE 75
+result = 632
+LAPSE : LINE 76
+result = 59
+LAPSE : LINE 77
+result = 811
+LAPSE : LINE 78
+result = 980
+LAPSE : LINE 79
+result = 171
+LAPSE : LINE 80
+result = 32
+LAPSE : LINE 81
+result = 125
+LAPSE : LINE 82
+result = 1015
+F
+5
+e
+12
+h
+29
+I
+14
+D
+7
+d
+4
+m
+17
+k
+10
+H
+LAPSE : LINE 84
+result = 909
+LAPSE : LINE 85
+result = 802
+LAPSE : LINE 86
+result = 393
+LAPSE : LINE 87
+result = 792
+LAPSE : LINE 88
+result = 2
+LAPSE : LINE 89
+result = 486
+LAPSE : LINE 90
+result = 805
+LAPSE : LINE 91
+result = 634
+LAPSE : LINE 92
+result = 133
+LAPSE : LINE 93
+result = 256
+LAPSE : LINE 94
+result = 438
+LAPSE : LINE 95
+result = 271
+LAPSE : LINE 96
+result = 498
+LAPSE : LINE 97
+result = 931
+LAPSE : LINE 98
+result = 455
+LAPSE : LINE 99
+result = 468
+LAPSE : LINE 100
+result = 258

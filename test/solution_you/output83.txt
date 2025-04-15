@@ -1,0 +1,830 @@
+MAXSIZE : 71
+LAPSE : LINE 1
+result = 49
+LAPSE : LINE 2
+result = 49
+LAPSE : LINE 3
+LAPSE : LINE 4
+result = 11
+LAPSE : LINE 5
+result = 7
+LAPSE : LINE 6
+result = 198
+LAPSE : LINE 7
+result = 25
+LAPSE : LINE 8
+result = 198
+LAPSE : LINE 9
+result = 7
+LAPSE : LINE 10
+LAPSE : LINE 11
+result = 28
+LAPSE : LINE 12
+result = 228
+LAPSE : LINE 13
+result = 11
+LAPSE : LINE 14
+result = 26
+LAPSE : LINE 15
+result = 108
+LAPSE : LINE 16
+result = 25
+KOKUSEN : LINE 18
+result = LAPSE : LINE 20
+result = 52
+LAPSE : LINE 21
+LAPSE : LINE 22
+LAPSE : LINE 23
+result = 26
+KOKUSEN : LINE 25
+result = LAPSE : LINE 27
+LAPSE : LINE 28
+result = 14
+KOKUSEN : LINE 30
+result = LAPSE : LINE 32
+LAPSE : LINE 33
+KOKUSEN : LINE 35
+result = LAPSE : LINE 37
+LAPSE : LINE 38
+result = 11
+LAPSE : LINE 39
+result = 11
+LAPSE : LINE 40
+result = 141
+LAPSE : LINE 41
+result = 7
+LAPSE : LINE 42
+result = 7
+LAPSE : LINE 43
+result = 26
+LAPSE : LINE 44
+result = 26
+LAPSE : LINE 45
+result = 14
+LAPSE : LINE 46
+result = 28
+KOKUSEN : LINE 48
+result = LAPSE : LINE 50
+result = 52
+KOKUSEN : LINE 52
+result = LAPSE : LINE 54
+LAPSE : LINE 55
+result = 198
+KOKUSEN : LINE 57
+result = LAPSE : LINE 59
+result = 25
+KOKUSEN : LINE 61
+result = LAPSE : LINE 63
+result = 108
+KOKUSEN : LINE 65
+result = LAPSE : LINE 67
+result = 7
+LAPSE : LINE 68
+result = 198
+LAPSE : LINE 69
+LAPSE : LINE 70
+result = 52
+LAPSE : LINE 71
+result = 7
+LAPSE : LINE 72
+KOKUSEN : LINE 74
+result = LAPSE : LINE 76
+result = 108
+LAPSE : LINE 77
+result = 52
+KOKUSEN : LINE 79
+result = LAPSE : LINE 81
+result = 13
+LAPSE : LINE 82
+result = 25
+KOKUSEN : LINE 84
+result = LAPSE : LINE 86
+result = 11
+LAPSE : LINE 87
+result = 108
+LAPSE : LINE 88
+result = 11
+LAPSE : LINE 89
+LAPSE : LINE 90
+result = 141
+LAPSE : LINE 91
+result = 141
+LAPSE : LINE 92
+result = 11
+LAPSE : LINE 93
+result = 26
+LAPSE : LINE 94
+result = 13
+LAPSE : LINE 95
+result = 11
+LAPSE : LINE 96
+KOKUSEN : LINE 98
+result = LAPSE : LINE 100
+result = 198
+LAPSE : LINE 101
+result = 11
+LAPSE : LINE 102
+result = 7
+LAPSE : LINE 103
+result = 11
+KOKUSEN : LINE 105
+result = LAPSE : LINE 107
+result = 14
+LAPSE : LINE 108
+result = 11
+KOKUSEN : LINE 110
+result = LAPSE : LINE 112
+result = 11
+LAPSE : LINE 113
+result = 11
+LAPSE : LINE 114
+result = 11
+LAPSE : LINE 115
+result = 108
+LAPSE : LINE 116
+result = 11
+LAPSE : LINE 117
+LAPSE : LINE 118
+result = 7
+LAPSE : LINE 119
+result = 52
+LAPSE : LINE 120
+result = 228
+LAPSE : LINE 121
+result = 7
+LAPSE : LINE 122
+result = 28
+KOKUSEN : LINE 124
+result = LAPSE : LINE 126
+result = 108
+LAPSE : LINE 127
+result = 7
+LAPSE : LINE 128
+LAPSE : LINE 129
+result = 49
+LAPSE : LINE 130
+result = 25
+LAPSE : LINE 132
+result = 11
+LAPSE : LINE 134
+result = 26
+LAPSE : LINE 135
+LAPSE : LINE 136
+result = 11
+LAPSE : LINE 137
+LAPSE : LINE 138
+result = 14
+LAPSE : LINE 139
+result = 141
+LAPSE : LINE 140
+result = 11
+LAPSE : LINE 141
+result = 11
+LAPSE : LINE 142
+result = 49
+LAPSE : LINE 143
+result = 7
+LAPSE : LINE 144
+KOKUSEN : LINE 146
+result = LAPSE : LINE 148
+result = 228
+LAPSE : LINE 149
+result = 25
+LAPSE : LINE 150
+result = 52
+LAPSE : LINE 151
+result = 49
+LAPSE : LINE 152
+LAPSE : LINE 153
+LAPSE : LINE 154
+result = 26
+LAPSE : LINE 155
+result = 11
+LAPSE : LINE 156
+result = 11
+LAPSE : LINE 157
+result = 25
+KOKUSEN : LINE 159
+result = LAPSE : LINE 161
+result = 108
+LAPSE : LINE 162
+result = 108
+LAPSE : LINE 163
+result = 11
+LAPSE : LINE 164
+result = 52
+LAPSE : LINE 165
+result = 28
+LAPSE : LINE 166
+result = 11
+LAPSE : LINE 167
+result = 7
+LAPSE : LINE 168
+result = 7
+KOKUSEN : LINE 170
+result = LAPSE : LINE 172
+result = 25
+LAPSE : LINE 173
+LAPSE : LINE 174
+result = 7
+LAPSE : LINE 175
+result = 28
+LAPSE : LINE 176
+LAPSE : LINE 177
+KOKUSEN : LINE 179
+result = LAPSE : LINE 181
+LAPSE : LINE 182
+result = 49
+LAPSE : LINE 183
+result = 108
+KOKUSEN : LINE 186
+result = LAPSE : LINE 188
+result = 26
+LAPSE : LINE 189
+result = 11
+LAPSE : LINE 190
+LAPSE : LINE 191
+result = 198
+LAPSE : LINE 192
+result = 228
+LAPSE : LINE 193
+KOKUSEN : LINE 195
+result = KOKUSEN : LINE 198
+result = LAPSE : LINE 200
+result = 49
+LAPSE : LINE 201
+result = 25
+LAPSE : LINE 202
+result = 13
+LAPSE : LINE 203
+result = 141
+LAPSE : LINE 204
+result = 198
+LAPSE : LINE 205
+LAPSE : LINE 206
+LAPSE : LINE 207
+result = 228
+KOKUSEN : LINE 209
+result = KOKUSEN : LINE 212
+result = LAPSE : LINE 214
+result = 7
+LAPSE : LINE 215
+result = 11
+LAPSE : LINE 216
+result = 228
+LAPSE : LINE 217
+result = 11
+LAPSE : LINE 218
+result = 198
+LAPSE : LINE 219
+result = 7
+LAPSE : LINE 220
+result = 141
+LAPSE : LINE 221
+result = 28
+LAPSE : LINE 222
+result = 25
+KOKUSEN : LINE 224
+result = LAPSE : LINE 226
+result = 52
+LAPSE : LINE 227
+result = 26
+LAPSE : LINE 228
+result = 52
+LAPSE : LINE 229
+result = 49
+LAPSE : LINE 230
+result = 13
+LAPSE : LINE 231
+result = 11
+LAPSE : LINE 232
+result = 28
+LAPSE : LINE 233
+LAPSE : LINE 234
+result = 13
+LAPSE : LINE 235
+result = 11
+LAPSE : LINE 236
+result = 11
+KOKUSEN : LINE 238
+result = LAPSE : LINE 240
+result = 49
+LAPSE : LINE 241
+result = 11
+LAPSE : LINE 242
+result = 108
+LAPSE : LINE 243
+result = 11
+LAPSE : LINE 244
+result = 228
+LAPSE : LINE 245
+result = 11
+LAPSE : LINE 247
+result = 13
+KOKUSEN : LINE 249
+result = LAPSE : LINE 251
+result = 52
+LAPSE : LINE 252
+result = 26
+LAPSE : LINE 253
+result = 28
+LAPSE : LINE 254
+result = 198
+LAPSE : LINE 255
+result = 228
+LAPSE : LINE 256
+result = 13
+LAPSE : LINE 257
+LAPSE : LINE 258
+result = 26
+LAPSE : LINE 259
+result = 141
+LAPSE : LINE 260
+result = 25
+LAPSE : LINE 261
+LAPSE : LINE 262
+LAPSE : LINE 263
+result = 7
+LAPSE : LINE 264
+result = 26
+LAPSE : LINE 265
+LAPSE : LINE 266
+result = 7
+LAPSE : LINE 267
+LAPSE : LINE 268
+LAPSE : LINE 269
+result = 52
+LAPSE : LINE 270
+result = 11
+KOKUSEN : LINE 272
+result = LAPSE : LINE 274
+result = 26
+LAPSE : LINE 275
+result = 11
+LAPSE : LINE 276
+result = 11
+LAPSE : LINE 278
+LAPSE : LINE 279
+result = 11
+LAPSE : LINE 280
+result = 49
+KOKUSEN : LINE 282
+result = LAPSE : LINE 284
+LAPSE : LINE 285
+KOKUSEN : LINE 287
+result = LAPSE : LINE 289
+result = 7
+LAPSE : LINE 290
+LAPSE : LINE 291
+result = 7
+LAPSE : LINE 292
+result = 13
+LAPSE : LINE 293
+LAPSE : LINE 294
+result = 198
+LAPSE : LINE 295
+result = 52
+LAPSE : LINE 296
+result = 11
+LAPSE : LINE 297
+LAPSE : LINE 298
+KOKUSEN : LINE 300
+result = LAPSE : LINE 302
+result = 7
+LAPSE : LINE 303
+LAPSE : LINE 304
+result = 26
+LAPSE : LINE 305
+result = 108
+KOKUSEN : LINE 307
+result = LAPSE : LINE 309
+LAPSE : LINE 310
+result = 14
+LAPSE : LINE 311
+result = 52
+LAPSE : LINE 312
+result = 11
+LAPSE : LINE 313
+result = 25
+LAPSE : LINE 314
+result = 52
+LAPSE : LINE 315
+result = 228
+LAPSE : LINE 316
+result = 11
+KOKUSEN : LINE 318
+result = LAPSE : LINE 320
+result = 7
+LAPSE : LINE 321
+KOKUSEN : LINE 323
+result = LAPSE : LINE 325
+result = 11
+LAPSE : LINE 326
+result = 25
+LAPSE : LINE 327
+LAPSE : LINE 328
+result = 228
+LAPSE : LINE 329
+result = 108
+LAPSE : LINE 330
+result = 28
+LAPSE : LINE 331
+KOKUSEN : LINE 333
+result = KOKUSEN : LINE 336
+result = LAPSE : LINE 338
+result = 228
+LAPSE : LINE 339
+result = 11
+LAPSE : LINE 340
+result = 13
+LAPSE : LINE 341
+result = 52
+LAPSE : LINE 342
+result = 13
+LAPSE : LINE 343
+result = 49
+LAPSE : LINE 344
+result = 49
+LAPSE : LINE 345
+LAPSE : LINE 346
+result = 108
+LAPSE : LINE 347
+result = 228
+LAPSE : LINE 348
+result = 49
+LAPSE : LINE 349
+LAPSE : LINE 350
+result = 11
+LAPSE : LINE 351
+LAPSE : LINE 352
+result = 228
+LAPSE : LINE 353
+KOKUSEN : LINE 355
+result = LAPSE : LINE 357
+LAPSE : LINE 358
+result = 11
+LAPSE : LINE 359
+result = 28
+LAPSE : LINE 360
+result = 7
+LAPSE : LINE 361
+result = 11
+LAPSE : LINE 362
+result = 11
+LAPSE : LINE 363
+result = 7
+LAPSE : LINE 364
+result = 28
+LAPSE : LINE 365
+result = 11
+KOKUSEN : LINE 367
+result = LAPSE : LINE 369
+result = 52
+LAPSE : LINE 370
+result = 13
+LAPSE : LINE 371
+result = 13
+LAPSE : LINE 372
+result = 108
+LAPSE : LINE 373
+result = 13
+LAPSE : LINE 374
+result = 141
+LAPSE : LINE 375
+result = 228
+LAPSE : LINE 376
+result = 108
+LAPSE : LINE 377
+result = 14
+LAPSE : LINE 378
+LAPSE : LINE 379
+result = 52
+LAPSE : LINE 380
+result = 7
+LAPSE : LINE 381
+result = 7
+LAPSE : LINE 382
+LAPSE : LINE 383
+result = 14
+LAPSE : LINE 384
+KOKUSEN : LINE 386
+result = LAPSE : LINE 388
+result = 11
+LAPSE : LINE 389
+result = 28
+LAPSE : LINE 390
+result = 11
+LAPSE : LINE 391
+result = 141
+KOKUSEN : LINE 393
+result = LAPSE : LINE 395
+result = 26
+LAPSE : LINE 396
+result = 108
+KOKUSEN : LINE 398
+result = LAPSE : LINE 400
+result = 11
+LAPSE : LINE 401
+LAPSE : LINE 402
+LAPSE : LINE 403
+result = 28
+LAPSE : LINE 404
+result = 108
+KOKUSEN : LINE 406
+result = LAPSE : LINE 408
+result = 11
+LAPSE : LINE 409
+result = 26
+LAPSE : LINE 410
+result = 108
+LAPSE : LINE 411
+result = 11
+LAPSE : LINE 412
+result = 49
+LAPSE : LINE 413
+result = 11
+LAPSE : LINE 414
+result = 25
+LAPSE : LINE 416
+result = 7
+LAPSE : LINE 417
+result = 198
+KOKUSEN : LINE 419
+result = LAPSE : LINE 421
+result = 14
+LAPSE : LINE 422
+result = 7
+LAPSE : LINE 423
+result = 52
+LAPSE : LINE 424
+result = 198
+LAPSE : LINE 425
+result = 108
+LAPSE : LINE 426
+LAPSE : LINE 427
+result = 7
+LAPSE : LINE 428
+result = 228
+KOKUSEN : LINE 430
+result = LAPSE : LINE 432
+result = 11
+KOKUSEN : LINE 434
+result = LAPSE : LINE 436
+result = 26
+LAPSE : LINE 437
+result = 49
+LAPSE : LINE 438
+result = 11
+LAPSE : LINE 439
+result = 26
+LAPSE : LINE 440
+LAPSE : LINE 441
+LAPSE : LINE 442
+result = 14
+LAPSE : LINE 443
+LAPSE : LINE 444
+result = 49
+LAPSE : LINE 445
+result = 49
+KOKUSEN : LINE 447
+result = LAPSE : LINE 449
+result = 198
+LAPSE : LINE 450
+result = 49
+LAPSE : LINE 451
+result = 7
+LAPSE : LINE 452
+result = 7
+LAPSE : LINE 453
+result = 7
+LAPSE : LINE 454
+result = 11
+LAPSE : LINE 455
+result = 49
+LAPSE : LINE 456
+result = 228
+LAPSE : LINE 457
+result = 228
+LAPSE : LINE 459
+LAPSE : LINE 460
+result = 7
+LAPSE : LINE 461
+result = 11
+LAPSE : LINE 462
+LAPSE : LINE 463
+result = 49
+LAPSE : LINE 464
+result = 52
+LAPSE : LINE 465
+result = 7
+LAPSE : LINE 466
+result = 7
+LAPSE : LINE 467
+result = 11
+LAPSE : LINE 468
+result = 49
+LAPSE : LINE 469
+result = 11
+LAPSE : LINE 470
+result = 198
+LAPSE : LINE 471
+result = 28
+LAPSE : LINE 472
+result = 7
+LAPSE : LINE 473
+result = 108
+LAPSE : LINE 474
+result = 52
+LAPSE : LINE 475
+result = 25
+LAPSE : LINE 476
+result = 7
+KOKUSEN : LINE 478
+result = LAPSE : LINE 480
+result = 14
+LAPSE : LINE 481
+result = 7
+LAPSE : LINE 482
+result = 141
+LAPSE : LINE 483
+result = 25
+LAPSE : LINE 484
+result = 141
+LAPSE : LINE 485
+result = 141
+LAPSE : LINE 486
+LAPSE : LINE 487
+LAPSE : LINE 488
+result = 25
+LAPSE : LINE 489
+LAPSE : LINE 491
+LAPSE : LINE 492
+result = 108
+LAPSE : LINE 493
+result = 26
+LAPSE : LINE 495
+LAPSE : LINE 496
+result = 13
+LAPSE : LINE 498
+result = 28
+LAPSE : LINE 499
+LAPSE : LINE 500
+result = 14
+LAPSE : LINE 501
+result = 49
+LAPSE : LINE 502
+result = 11
+LAPSE : LINE 504
+result = 49
+LAPSE : LINE 505
+result = 26
+LAPSE : LINE 506
+result = 7
+LAPSE : LINE 507
+result = 49
+LAPSE : LINE 508
+result = 49
+LAPSE : LINE 509
+result = 49
+LAPSE : LINE 510
+LAPSE : LINE 511
+LAPSE : LINE 512
+result = 198
+LAPSE : LINE 513
+LAPSE : LINE 514
+LAPSE : LINE 515
+result = 7
+LAPSE : LINE 516
+LAPSE : LINE 517
+result = 11
+LAPSE : LINE 518
+LAPSE : LINE 519
+result = 25
+KOKUSEN : LINE 521
+result = LAPSE : LINE 523
+result = 52
+LAPSE : LINE 524
+LAPSE : LINE 525
+result = 14
+LAPSE : LINE 526
+result = 198
+LAPSE : LINE 527
+result = 108
+KOKUSEN : LINE 529
+result = LAPSE : LINE 531
+result = 11
+LAPSE : LINE 532
+LAPSE : LINE 533
+result = 108
+LAPSE : LINE 534
+result = 7
+LAPSE : LINE 535
+result = 11
+KOKUSEN : LINE 537
+result = KOKUSEN : LINE 540
+result = LAPSE : LINE 542
+result = 28
+LAPSE : LINE 543
+result = 26
+LAPSE : LINE 544
+result = 11
+LAPSE : LINE 545
+result = 52
+KOKUSEN : LINE 547
+result = LAPSE : LINE 549
+result = 13
+LAPSE : LINE 550
+result = 49
+KOKUSEN : LINE 552
+result = LAPSE : LINE 554
+result = 108
+LAPSE : LINE 555
+result = 7
+LAPSE : LINE 556
+LAPSE : LINE 557
+LAPSE : LINE 558
+LAPSE : LINE 559
+result = 28
+LAPSE : LINE 560
+result = 25
+LAPSE : LINE 561
+result = 26
+LAPSE : LINE 562
+result = 7
+LAPSE : LINE 563
+result = 108
+LAPSE : LINE 565
+result = 14
+LAPSE : LINE 566
+result = 141
+LAPSE : LINE 567
+result = 228
+LAPSE : LINE 569
+result = 228
+LAPSE : LINE 570
+result = 49
+KOKUSEN : LINE 572
+result = LAPSE : LINE 574
+result = 11
+KOKUSEN : LINE 576
+result = LAPSE : LINE 578
+LAPSE : LINE 579
+result = 52
+KOKUSEN : LINE 581
+result = LAPSE : LINE 583
+LAPSE : LINE 584
+KOKUSEN : LINE 586
+result = LAPSE : LINE 588
+result = 141
+LAPSE : LINE 589
+result = 28
+LAPSE : LINE 590
+result = 25
+KOKUSEN : LINE 592
+result = LAPSE : LINE 594
+result = 11
+LAPSE : LINE 595
+LAPSE : LINE 596
+result = 28
+LAPSE : LINE 597
+result = 13
+LAPSE : LINE 598
+result = 141
+LAPSE : LINE 599
+result = 11
+LAPSE : LINE 600
+result = 11
+KOKUSEN : LINE 602
+result = LAPSE : LINE 604
+result = 7
+LAPSE : LINE 605
+LAPSE : LINE 606
+result = 7
+LAPSE : LINE 607
+result = 7
+LAPSE : LINE 608
+result = 11
+LAPSE : LINE 609
+result = 26
+LAPSE : LINE 610
+result = 7
+LAPSE : LINE 611
+result = 7
+LAPSE : LINE 612
+result = 28
+LAPSE : LINE 613
+result = 28
+LAPSE : LINE 614
+result = 13
+LAPSE : LINE 615
+result = 108
+LAPSE : LINE 616
+result = 11
+LAPSE : LINE 617
+result = 49
+LAPSE : LINE 618
+result = 28
+LAPSE : LINE 619
+result = 11
+LAPSE : LINE 620
+result = 11
